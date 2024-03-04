@@ -12,3 +12,4 @@ I will be splitting the data into multiple tables for awards and laureates.
 
 awards(e.g., awardYear, category, prizeAmount) and laureates (e.g., name, birth_date, gender)
 
+I will also be coordinating with Keith DeNivo on working on a third data set together.
